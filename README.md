@@ -15,7 +15,7 @@ R=
 # Questão 05
 R=
 # Questão 06
-R= Usando uma método da **class** String 
+R= Usando um método da **class** String 
 # Questão 07
 R=
 # Questão 08✔

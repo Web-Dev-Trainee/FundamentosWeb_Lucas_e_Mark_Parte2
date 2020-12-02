@@ -7,8 +7,9 @@
 R=String, Númerico, Booleano, Array, Função, Objeto
 # Questão 02
 R=
-# Questão 03
-R=
+# Questão 03 ✔
+R=As aspas simples são usadas quando as aspas duplas já foram empregadas na frase e já
+ O uso das aspas duplas é feito direto para destacar algo do texto ou citar nome 
 # Questão 04
 R=
 # Questão 05

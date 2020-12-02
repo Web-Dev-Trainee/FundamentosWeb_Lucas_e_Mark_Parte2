@@ -15,11 +15,11 @@ R=
 # Questão 05
 R=
 # Questão 06
-R=
+R= Usando uma método da **class** String 
 # Questão 07
 R=
-# Questão 08
-R=
+# Questão 08✔
+R=são funções invocadas por objetos.
 # Questão 09
 R=AND, NAND, OR
 Trabalham valores de entrada e saída

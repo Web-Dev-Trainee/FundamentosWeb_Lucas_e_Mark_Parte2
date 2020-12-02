@@ -21,6 +21,23 @@ R=
 # Questão 08
 R=
 # Questão 09
+R=AND, NAND, OR
+Trabalham valores de entrada e saída
+# Questão 10 ✔
+R= Os Operadores são: = , > , < , >=, <=, ==, ===, != 
+# Questão 11
 R=
-# Questão 10
+# Questão 12 
 R=
+# Questão 13
+R=
+# Questão 14
+R=
+# Questão 15
+R=
+# Questão 16
+R=
+# Questão 17
+R=
+# Questão 18 ✔
+R=R= São comentários incluídos no código HTML escritos exclusivamente para fazer uma parte do código funcionar 

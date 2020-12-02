@@ -12,16 +12,16 @@ R=As aspas simples são usadas quando as aspas duplas já foram empregadas na fr
  O uso das aspas duplas é feito direto para destacar algo do texto ou citar nome 
 # Questão 04
 R=
-# Questão 05
+# Questão 05 ✔
 R=>>> print 4
 4
 R= <?php
 echo "Olá Mundo";
 ?>
 
-# Questão 06
+# Questão 06 ✔
 R= Usando um método da **class** String 
-# Questão 07
+# Questão 07 ✔
 R= O método slice retorna a uma string vazia já o  substring os tratará como se fossem 0
 # Questão 08✔
 R=são funções invocadas por objetos.

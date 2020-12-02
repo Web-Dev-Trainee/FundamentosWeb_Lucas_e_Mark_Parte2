@@ -25,7 +25,7 @@ R= Usando um método da **class** String
 R= O método slice retorna a uma string vazia já o  substring os tratará como se fossem 0
 # Questão 08✔
 R=são funções invocadas por objetos.
-# Questão 09
+# Questão 09 ✔
 R=AND, NAND, OR
 Trabalham valores de entrada e saída
 # Questão 10 ✔

@@ -5,6 +5,8 @@
 
 # Questão 01 ✔
 R=String, Númerico, Booleano, Array, Função, Objeto
+---------------------------------------------------
+var str = 'Casa de Desenvolvimento web
 # Questão 02
 R=
 # Questão 03 ✔
@@ -47,6 +49,18 @@ console.log(str.substr(2));
 R= O método slice retorna a uma string vazia já o  substring os tratará como se fossem 0
 # Questão 08✔
 R=são funções invocadas por objetos.
+
+
+const pessoas = [
+{ name: 'Lucas', age: 22},
+{ name: 'Mark', age: 20},
+{ name: ' Rafa', age: 21}
+
+
+const newArray = people.filter(person => person.age>22);
+//Retornar a nova variavel
+console.table(newArray);
+
 # Questão 09 ✔
 R=AND, NAND, OR
 Trabalham valores de entrada e saída

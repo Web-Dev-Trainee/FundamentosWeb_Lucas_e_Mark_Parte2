@@ -10,6 +10,19 @@ R=
 # Questão 03 ✔
 R=As aspas simples são usadas quando as aspas duplas já foram empregadas na frase e já
  O uso das aspas duplas é feito direto para destacar algo do texto ou citar nome 
+ 
+ <?php
+ $palavra = 'Mundo';
+ $frase 'Olá $palavra !';
+ ?>
+ 
+ <?php
+ $frase = "Meu nome é Lucas Leão";
+ echo "<br>-------</br>;
+ $frase1 = "Colocando \ "aspas duplas\ "no texto;
+ echo $frase 1
+ ?>
+ 
 # Questão 04
 R=
 # Questão 05 ✔
@@ -46,3 +59,8 @@ R=
 R=
 # Questão 18 ✔
 R=R= São comentários incluídos no código HTML escritos exclusivamente para fazer uma parte do código funcionar 
+Idade = int(int(input('Digite seu a sua idade: '))
+if idade <18:
+  print('Ainda não pode dirigir!') 
+  if idade idade >= 18:
+  print(' Já pode dirigir! ') 

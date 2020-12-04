@@ -35,6 +35,14 @@ echo "Olá Mundo";
 
 # Questão 06 ✔
 R= Usando um método da **class** String 
+---------------------------------------
+const str = 'Mozilla';
+
+console.log(str.substr(1, 2));
+// expected output: "oz"
+
+console.log(str.substr(2));
+// expected output: "zilla"
 # Questão 07 ✔
 R= O método slice retorna a uma string vazia já o  substring os tratará como se fossem 0
 # Questão 08✔

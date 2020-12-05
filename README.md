@@ -27,7 +27,12 @@ R=As aspas simples são usadas quando as aspas duplas já foram empregadas na fr
  ?>
  
 # Questão 04
-R=
+R=print(type("Ola, mundo!"))
+
+print(type(17))
+
+print("Ola, mundo")
+
 # Questão 05 ✔
 R=>>> print 4
 4

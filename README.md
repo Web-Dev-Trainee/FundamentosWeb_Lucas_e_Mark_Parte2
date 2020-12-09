@@ -72,7 +72,8 @@ Trabalham valores de entrada e saída
 # Questão 10 ✔
 R= Os Operadores são: = , > , < , >=, <=, ==, ===, != 
 # Questão 11
-R=
+R= encapsulada em outra capaz de ser chamada somente pela subrotina que a encapsula. em java significaque são
+classes que estão em outras.
 # Questão 12 ✔
 R= São tipos de dados chamados booleanos, carregando um valor binário
 # Questão 13✔

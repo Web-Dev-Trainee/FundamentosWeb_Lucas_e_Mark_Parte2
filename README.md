@@ -8,7 +8,7 @@ R=String, Númerico, Booleano, Array, Função, Objeto
 ---------------------------------------------------
 var str = 'Casa de Desenvolvimento web
 # Questão 02
-R=
+R=Object null
 # Questão 03 ✔
 R=As aspas simples são usadas quando as aspas duplas já foram empregadas na frase e já
  O uso das aspas duplas é feito direto para destacar algo do texto ou citar nome 
@@ -73,18 +73,46 @@ Trabalham valores de entrada e saída
 R= Os Operadores são: = , > , < , >=, <=, ==, ===, != 
 # Questão 11
 R=
-# Questão 12 
-R=
-# Questão 13
-R=
-# Questão 14
-R=
-# Questão 15
-R=
-# Questão 16
-R=
+# Questão 12 ✔
+R= São tipos de dados chamados booleanos, carregando um valor binário
+# Questão 13✔
+R= Undefined, null, 0, string vazia e Nan (not a number)
+# Questão 14✔
+R= Em python a condicional é descrita desta forma:
+a = 10
+
+b = 10
+
+if a > b:
+
+c= true
+
+else:
+
+c= False
+
+print(c)
+
+# Questão 15✔
+R=switch(b){
+case 'situassão 1':
+"algo acontece";
+[break];
+
+case 'situassão 2':
+"algo acontece";
+[break];
+
+case 'situassão 3':
+"algo acontece";
+[break];
+
+default:
+"algo ocorre";
+# Questão 16✔
+R=a = 4 if x >= 10 else 2
 # Questão 17
-R=
+R= Se o metodo retorna a indefinido significa que não existe, por não retornar nulo significa que existe. Ambas possuem valor booleano com falso
 # Questão 18 ✔
 R=R= São comentários incluídos no código HTML escritos exclusivamente para fazer uma parte do código funcionar
 
